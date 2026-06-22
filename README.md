@@ -1,6 +1,6 @@
 # ¡Hola! Soy Raul Junquera 👋
 
-Soy un desarrollador de aplicaciones fullstack con experiencia en **React** y **Typescript y tengo conocimientos en una variedad de lenguajes y tecnologías. Mi usuario en GitHub es **naiitder**.
+Soy un desarrollador de aplicaciones fullstack con experiencia en **React** y **Typescript** y tengo conocimientos en una variedad de lenguajes y tecnologías. Mi usuario en GitHub es **naiitder**.
 
 ### 🚀 Tecnologías que manejo:
 - **Typescript** / **Javascript** 💻: Desarrollo web con un enfoque en el front-end y back-end.
