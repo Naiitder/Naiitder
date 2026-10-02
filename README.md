@@ -1,41 +1,36 @@
-# ¡Hola! Soy Raul Junquera 👋
+# Hi, I'm Raul Junquera 👋
 
-Soy un desarrollador de aplicaciones frontend con experiencia en **React** y **Typescript** y tengo conocimientos en una variedad de lenguajes y tecnologías.
+**Game developer** building 2D and 3D games with **Unity (C#)** and **Unreal Engine (C++)**.
 
-### 🚀 Tecnologías que manejo:
-- **Typescript** / **Javascript** 💻: Desarrollo web con un enfoque en el front-end y back-end.
-- **React** ⚛️: Framework para construir interfaces de usuario dinámicas y eficientes.
-- **Unity** (C#) 🕹️: Desarrollo de juegos 2D y 3D utilizando Unity.
-- **Unreal Engine** (C++) 🔥: Creación de videojuegos con uno de los motores más potentes del mercado.
-- **Python** 🐍: Para scripting, automatización y creación de herramientas.
-- **Java** ☕: Desarrollo de aplicaciones móviles y de escritorio.
-- **Kotlin** 📱: Desarrollo de aplicaciones Android nativas.
-- **Flutter** 🌐: Desarrollo de aplicaciones móviles multiplataforma.
-
-### 🌱 Actualmente estoy aprendiendo:
-
-- Mejorando mis habilidades en **React** y **Flutter** para crear aplicaciones móviles y web más robustas.
-
-### 📬 ¿Cómo puedes contactarme?
-
-Puedes seguirme aquí en GitHub y revisar mis proyectos. Si estás interesado en colaborar o tienes alguna pregunta, no dudes en escribirme.
+I also bring real-time 3D to the web with **Babylon.js**, **React** and **TypeScript**, and build cross-platform apps with **Flutter**.
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+### 🎮 Game Development
 
+- **Unity** (C#): 2D and 3D games, gameplay programming and tooling.
+- **Unreal Engine** (C++): gameplay systems and 3D game development.
+- **Babylon.js**: interactive 3D experiences and games running in the browser.
 
-<!--
-**Naiitder/Naiitder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Web & Mobile
 
-Here are some ideas to get you started:
+- **TypeScript / JavaScript**: front-end focused, with back-end experience.
+- **React**: dynamic, performant user interfaces, often paired with Babylon.js.
+- **Flutter** (Dart): cross-platform mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Also worked with
+
+- **Python**: scripting, automation and tooling.
+- **Java**: mobile and desktop applications.
+
+### 🌱 Currently learning
+
+- **Godot** and **GDScript**, to add a third engine to my toolbox.
+
+### 📬 Get in touch
+
+Have a look at my repositories to see what I'm working on. If you'd like to collaborate on a game or have a question, feel free to reach out here on GitHub.
+
+---
+
+Thanks for stopping by! 🚀
